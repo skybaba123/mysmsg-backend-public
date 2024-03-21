@@ -1,4 +1,5 @@
 import "module-alias/register";
+import "dotenv/config";
 import express from "express";
 import http from "http";
 import bodyParser from "body-parser";
